@@ -1,0 +1,10 @@
+You are accessing an information system owned by ANECCA. This system is provided for ANECCA-authorized use only.
+
+By using this information system, you have no reasonable expectation of privacy regarding any communications or data transiting or stored on this information system.
+
+Unauthorized or improper use of this system may result in disciplinary action, as well as civil and criminal penalties.
+
+
+
+Used o get serial number of computer
+Get-WmiObject win32_bios | select SerialNumber
